@@ -51,6 +51,10 @@ print(dev.get_mission())
 
 ## 🚀 Featured Projects
 
+### 🤖 [OmniPilot — Universal Autonomous Computer Agent](https://github.com/Sanskarsoni-013/omnipilot)
+> **Stack: Python, Local AI, Multi-Modal Perception, Autonomous Planning, Web Hub**  
+> An open-source, local-first autonomous agent framework that turns natural language instructions into coordinated system, spreadsheet, and browser workflows — 100% private, local, and zero-cloud.
+
 ### 🏥 [Healthcare Operations & Patient Analytics Pipeline](https://github.com/Sanskarsoni-013/healthcare-operations-pipeline)
 > **Stack: Python, Pandas, OpenPyXL, MySQL, Advanced Excel**  
 > An automated end-to-end data processing workflow modeling chronic care management (CCM/RPM). Cleans raw EHR datasets across 20,000+ entries, aggregates monthly engagement KPIs, and generates executive-level multi-tab Excel workbooks with automated Pivot Tables and dynamic slicers.
