@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanskar-soni-669382311)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskar013soni@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/sanskar-soni)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Sanskarsoni-013)
 
 <br/>
 
@@ -51,15 +51,15 @@ print(dev.get_mission())
 
 ## 🚀 Featured Projects
 
-### 🏥 [Healthcare Operations & Patient Analytics Pipeline](https://github.com/sanskar-soni/healthcare-operations-pipeline)
+### 🏥 [Healthcare Operations & Patient Analytics Pipeline](https://github.com/Sanskarsoni-013/healthcare-operations-pipeline)
 > **Stack: Python, Pandas, OpenPyXL, MySQL, Advanced Excel**  
 > An automated end-to-end data processing workflow modeling chronic care management (CCM/RPM). Cleans raw EHR datasets across 20,000+ entries, aggregates monthly engagement KPIs, and generates executive-level multi-tab Excel workbooks with automated Pivot Tables and dynamic slicers.
 
-### 📚 [Automated Library Database & Inventory Management System](https://github.com/sanskar-soni/library-management-system)
+### 📚 [Automated Library Database & Inventory Management System](https://github.com/Sanskarsoni-013/library-management-system)
 > **Stack: Python, MySQL, Tkinter, OpenPyXL**  
 > A relational database desktop application enforcing 3NF schema normalization and parameterized queries. Automates catalog search, member borrowing workflows, overdue fee calculations, and daily ledger reporting.
 
-### ⚙️ [Data Automation & Validation Toolkit](https://github.com/sanskar-soni/data-automation-toolkit)
+### ⚙️ [Data Automation & Validation Toolkit](https://github.com/Sanskarsoni-013/data-automation-toolkit)
 > **Stack: Python, Pandas, Regex**  
 > A reusable lightweight data hygiene engine that audits tabular datasets for schema anomalies, null values, and duplicate records with >99.5% accuracy, slashing manual collation overhead by 40%.
 
@@ -68,8 +68,8 @@ print(dev.get_mission())
 ## 📊 GitHub & Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskar-soni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sanskar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar-soni&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanskarsoni-013&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sanskar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskarsoni-013&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
