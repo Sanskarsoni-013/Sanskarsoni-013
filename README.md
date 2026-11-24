@@ -51,9 +51,9 @@ print(dev.get_mission())
 
 ## 🚀 Featured Projects
 
-### 🪶 [SkyFlap Airborne — 60 FPS Retro Arcade Game](https://github.com/Sanskarsoni-013/Stringstrange) • [Play Live at stringstrange.online](https://www.stringstrange.online)
-> **Stack: React, HTML5 Canvas, Web Audio API, Custom Physics Engine**  
-> An ultra-smooth, responsive 60 FPS endless flight game deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features realistic gravity and pitch-rotation physics, synthesized 8-bit sound effects (jump, score, hit, die), multiple themes (Daylight, Midnight Cyber, Sunset), character skins, particle systems, and persistent medal achievements.
+### ⚡ [APEX QUANT AI — Neural Crypto Trading Signals Terminal](https://github.com/Sanskarsoni-013/Stringstrange) • [Live at stringstrange.online](https://www.stringstrange.online)
+> **Stack: React, TailwindCSS, Machine Learning, Quantitative Analysis, Orderbook Intelligence**  
+> An institutional-grade quantitative machine learning crypto trading terminal deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features hourly neural model re-training cycles, on-chain whale tracking, and automated trade execution signals categorized into Scalping, Intraday, Swing, and Arbitrage with probability metrics and risk calculators.
 
 ### 🛰️ [AeroSat AI — Satellite Earth Observation & Geospatial ML](https://github.com/Sanskarsoni-013/aerosat-ai) • [Live at stringstrange.online](https://www.stringstrange.online)
 > **Stack: React, Python, PyTorch, SGP4 Orbital Mechanics, Multispectral Computer Vision**  
