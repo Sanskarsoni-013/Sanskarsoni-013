@@ -51,6 +51,10 @@ print(dev.get_mission())
 
 ## 🚀 Featured Projects
 
+### 🛰️ [AeroSat AI — Satellite Earth Observation & Geospatial ML](https://github.com/Sanskarsoni-013/aerosat-ai) • [Live at stringstrange.online](https://www.stringstrange.online)
+> **Stack: React, Python, PyTorch, SGP4 Orbital Mechanics, Multispectral Computer Vision**  
+> An interactive operational satellite intelligence and Earth observation platform deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features real-time SGP4 Keplerian orbit propagation (ISS, Landsat-9, Sentinel-2A), multispectral NDVI vegetation health calculation, thermal infrared wildfire detection, and deep land cover segmentation.
+
 ### 🤖 [OmniPilot — Universal Autonomous Computer Agent](https://github.com/Sanskarsoni-013/omnipilot)
 > **Stack: Python, Local AI, Multi-Modal Perception, Autonomous Planning, Web Hub**  
 > An open-source, local-first autonomous agent framework that turns natural language instructions into coordinated system, spreadsheet, and browser workflows — 100% private, local, and zero-cloud.
