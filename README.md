@@ -51,6 +51,10 @@ print(dev.get_mission())
 
 ## 🚀 Featured Projects
 
+### 🪶 [SkyFlap Airborne — 60 FPS Retro Arcade Game](https://github.com/Sanskarsoni-013/Stringstrange) • [Play Live at stringstrange.online](https://www.stringstrange.online)
+> **Stack: React, HTML5 Canvas, Web Audio API, Custom Physics Engine**  
+> An ultra-smooth, responsive 60 FPS endless flight game deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features realistic gravity and pitch-rotation physics, synthesized 8-bit sound effects (jump, score, hit, die), multiple themes (Daylight, Midnight Cyber, Sunset), character skins, particle systems, and persistent medal achievements.
+
 ### 🛰️ [AeroSat AI — Satellite Earth Observation & Geospatial ML](https://github.com/Sanskarsoni-013/aerosat-ai) • [Live at stringstrange.online](https://www.stringstrange.online)
 > **Stack: React, Python, PyTorch, SGP4 Orbital Mechanics, Multispectral Computer Vision**  
 > An interactive operational satellite intelligence and Earth observation platform deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features real-time SGP4 Keplerian orbit propagation (ISS, Landsat-9, Sentinel-2A), multispectral NDVI vegetation health calculation, thermal infrared wildfire detection, and deep land cover segmentation.
