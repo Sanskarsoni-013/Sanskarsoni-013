@@ -51,6 +51,10 @@ print(dev.get_mission())
 
 ## 🚀 Featured Projects
 
+### 📈 [TradingView — Advanced Real-Time Market Terminal](https://github.com/Sanskarsoni-013/Stringstrange) • [Live at stringstrange.online](https://www.stringstrange.online)
+> **Stack: React, TradingView Advanced Charting Engine, WebSockets, TailwindCSS**  
+> An exact, authentic 1:1 implementation of the **TradingView** advanced charting terminal deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features sub-second real-time multi-asset market data (Crypto, Stocks, Forex, Indices), full drawing tool rails, indicators modal (RSI, MACD, Bollinger Bands), interactive multi-timeframe analysis, symbol search (⌘K), and live watchlists with technical rating gauges.
+
 ### ⚡ [APEX QUANT AI — Neural Crypto Trading Signals Terminal](https://github.com/Sanskarsoni-013/Stringstrange) • [Live at stringstrange.online](https://www.stringstrange.online)
 > **Stack: React, TailwindCSS, Machine Learning, Quantitative Analysis, Orderbook Intelligence**  
 > An institutional-grade quantitative machine learning crypto trading terminal deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features hourly neural model re-training cycles, on-chain whale tracking, and automated trade execution signals categorized into Scalping, Intraday, Swing, and Arbitrage with probability metrics and risk calculators.
