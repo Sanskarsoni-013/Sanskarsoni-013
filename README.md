@@ -51,9 +51,13 @@ print(dev.get_mission())
 
 ## 🚀 Featured Projects
 
-### 📈 [TradingView — Advanced Real-Time Market Terminal](https://github.com/Sanskarsoni-013/Stringstrange) • [Live at stringstrange.online](https://www.stringstrange.online)
+### 🪶 [SkyFlap Airborne — 60 FPS Endless Arcade Flight Game](https://github.com/Sanskarsoni-013/Stringstrange) • [Live at stringstrange.online](https://www.stringstrange.online)
+> **Stack: React, HTML5 Canvas 60 FPS Physics, Web Audio API Sound Synthesizer, CSS3**  
+> An ultra-smooth, responsive 60 FPS endless arcade flight game deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features real-time procedural physics, upward flap impulse, downward velocity gravity curves, sprite atlas animation, custom retro typography, medal achievements, and in-browser 8-bit sound synthesis via the Web Audio API with zero external audio latency.
+
+### 📈 [TradingView — Advanced Real-Time Market Terminal](https://github.com/Sanskarsoni-013/Stringstrange)
 > **Stack: React, TradingView Advanced Charting Engine, WebSockets, TailwindCSS**  
-> An exact, authentic 1:1 implementation of the **TradingView** advanced charting terminal deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features sub-second real-time multi-asset market data (Crypto, Stocks, Forex, Indices), full drawing tool rails, indicators modal (RSI, MACD, Bollinger Bands), interactive multi-timeframe analysis, symbol search (⌘K), and live watchlists with technical rating gauges.
+> An authentic implementation of the **TradingView** advanced charting terminal with sub-second real-time multi-asset market data (Crypto, Stocks, Forex, Indices), drawing tools, indicators modal, interactive multi-timeframe analysis, symbol search (⌘K), and live watchlists with technical rating gauges.
 
 ### ⚡ [APEX QUANT AI — Neural Crypto Trading Signals Terminal](https://github.com/Sanskarsoni-013/Stringstrange) • [Live at stringstrange.online](https://www.stringstrange.online)
 > **Stack: React, TailwindCSS, Machine Learning, Quantitative Analysis, Orderbook Intelligence**  
