@@ -51,9 +51,9 @@ print(dev.get_mission())
 
 ## 🚀 Featured Projects
 
-### 🪶 [SkyFlap Airborne — 60 FPS Endless Arcade Flight Game](https://github.com/Sanskarsoni-013/Stringstrange) • [Live at stringstrange.online](https://www.stringstrange.online)
-> **Stack: React, HTML5 Canvas 60 FPS Physics, Web Audio API Sound Synthesizer, CSS3**  
-> An ultra-smooth, responsive 60 FPS endless arcade flight game deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features real-time procedural physics, upward flap impulse, downward velocity gravity curves, sprite atlas animation, custom retro typography, medal achievements, and in-browser 8-bit sound synthesis via the Web Audio API with zero external audio latency.
+### ⚡ [ChronoFlap 2099 — Bullet-Time Cyberpunk Arcade Flight](https://github.com/Sanskarsoni-013/Stringstrange) • [Live at stringstrange.online](https://www.stringstrange.online)
+> **Stack: React, HTML5 Canvas 120 FPS Physics, Web Audio API Sound Synthesizer, CSS3 Glassmorphism**  
+> A high-speed, bullet-time cyberpunk arcade flight runner deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features dynamic time-dilation physics (0.2x bullet-time on release, 1.0x impulse thrust on hold, 2.4x Overclock hyperdrive), kinetic laser pylons, procedural 8-bit Web Audio synthesizer, energy reactor charging, multi-layer cyberpunk parallax skyline, and custom interceptor chassis skins.
 
 ### 📈 [TradingView — Advanced Real-Time Market Terminal](https://github.com/Sanskarsoni-013/Stringstrange)
 > **Stack: React, TradingView Advanced Charting Engine, WebSockets, TailwindCSS**  
