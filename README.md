@@ -51,6 +51,10 @@ print(dev.get_mission())
 
 ## 🚀 Featured Projects
 
+### 🚗⚡ [Tesla Autopilot Sensor Intelligence & BEV Fusion](https://github.com/Sanskarsoni-013/tesla-autopilot-sensor-fusion) • [Interactive Web Visualizer](https://github.com/Sanskarsoni-013/tesla-autopilot-sensor-fusion/blob/main/examples/web_visualizer.html)
+> **Stack: Python, NumPy, SciPy, Extended Kalman Filter (EKF), Bird's-Eye-View (BEV), Stanley Controller, CAN Bus**  
+> An autonomous driving perception, sensor intelligence, and control engine modeled on surround-vision EV architectures. Features an 8-camera 360° optical suite, 12-channel ultrasonic proximity radar array (<8m), 77 GHz forward Doppler radar (250m), Bird's-Eye-View (BEV) voxel occupancy network, 9-state Extended Kalman Filter (EKF) sensor fusion, 3D multi-object tracking (MOT), Time-To-Collision (TTC) & Automatic Emergency Braking (AEB), quintic jerk-minimizing trajectory planning, Stanley lateral steering control, automotive CAN bus frame encoders (0x048, 0x116, 0x118), and an interactive cockpit web visualizer.
+
 ### ⚡ [ChronoFlap 2099 — Bullet-Time Flight & $1,000 USDT Championship](https://github.com/Sanskarsoni-013/Stringstrange) • [Live at stringstrange.online](https://www.stringstrange.online)
 > **Stack: React, HTML5 Canvas 120 FPS Physics, Web Audio API Sound Synthesizer, Crypto Leaderboard**  
 > A high-speed, bullet-time cyberpunk arcade flight runner deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features an **All-Time Global Leaderboard with a $1,000 USDT Grand Prize Pool** ("A result will announce when my mood hits to give"), dynamic time-dilation physics, kinetic laser pylons, procedural Web Audio synthesizer, energy reactor charging, and custom illuminated aero themes.
