@@ -51,9 +51,9 @@ print(dev.get_mission())
 
 ## 🚀 Featured Projects
 
-### ⚡ [ChronoFlap 2099 — Bullet-Time Cyberpunk Arcade Flight](https://github.com/Sanskarsoni-013/Stringstrange) • [Live at stringstrange.online](https://www.stringstrange.online)
-> **Stack: React, HTML5 Canvas 120 FPS Physics, Web Audio API Sound Synthesizer, CSS3 Glassmorphism**  
-> A high-speed, bullet-time cyberpunk arcade flight runner deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features dynamic time-dilation physics (0.2x bullet-time on release, 1.0x impulse thrust on hold, 2.4x Overclock hyperdrive), kinetic laser pylons, procedural 8-bit Web Audio synthesizer, energy reactor charging, multi-layer cyberpunk parallax skyline, and custom interceptor chassis skins.
+### ⚡ [ChronoFlap 2099 — Bullet-Time Flight & $1,000 USDT Championship](https://github.com/Sanskarsoni-013/Stringstrange) • [Live at stringstrange.online](https://www.stringstrange.online)
+> **Stack: React, HTML5 Canvas 120 FPS Physics, Web Audio API Sound Synthesizer, Crypto Leaderboard**  
+> A high-speed, bullet-time cyberpunk arcade flight runner deployed live on Vercel at **[stringstrange.online](https://www.stringstrange.online)**. Features an **All-Time Global Leaderboard with a $1,000 USDT Grand Prize Pool** ("A result will announce when my mood hits to give"), dynamic time-dilation physics, kinetic laser pylons, procedural Web Audio synthesizer, energy reactor charging, and custom illuminated aero themes.
 
 ### 📈 [TradingView — Advanced Real-Time Market Terminal](https://github.com/Sanskarsoni-013/Stringstrange)
 > **Stack: React, TradingView Advanced Charting Engine, WebSockets, TailwindCSS**  
